@@ -10,12 +10,6 @@ cd ./curso-nodejs
 # crear el directorio de la clase03
 mkdir ./clase03
 
-#--------------------------------
-# crear directorio .vscode
-mkdir ./vscode
-
-# crear archivo launch.json
-vim launch.json
 ```
 
 establecer nuestro proyecto como un modulo (package)
@@ -55,5 +49,3 @@ página oficial de [browserify](http://browserify.org)
 ```sh
     npm install -g browserify
 ```
-
-[descargar diapositiva](https://drive.google.com/open?id=1Z9ogVm5Qew_xoPi2h7aaaJ797HIPCEbW)

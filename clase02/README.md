@@ -40,6 +40,3 @@ npm install jsonwebtoken
 ...
 
 ```
-
-
-[descargar diapositiva](https://drive.google.com/open?id=1Z9ogVm5Qew_xoPi2h7aaaJ797HIPCEbW)

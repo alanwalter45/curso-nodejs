@@ -78,5 +78,3 @@ npm install tslint -g
 # instalar eslint globalmente
 npm install eslint -g
 ```
-
-[descargar diapositiva](https://drive.google.com/open?id=1Z9ogVm5Qew_xoPi2h7aaaJ797HIPCEbW)

@@ -26,8 +26,6 @@ visita el github de la comunidad
 
 > Bolivia, Sucre - Facultad de tecnología , calle regimiento campos #180 ,del 14 al 18 de Mayo de 2018 , <b>laboratorio ecampus</b>
 
-[descargar diapositiva](https://drive.google.com/open?id=1Z9ogVm5Qew_xoPi2h7aaaJ797HIPCEbW)
-
 <br>
 
 ## TERMINAL ó CMD
@@ -56,3 +54,6 @@ si estas trabajando con visual studio code puedes lanzar el archivo "launch.json
 ## VISTA PREVIA
 
 <img src="./src/Screenshot.png" width="1319" height="741" >
+
+### -- DESCARGAR DIAPOSITIVA--
+[descargar diapositiva](https://drive.google.com/open?id=1Z9ogVm5Qew_xoPi2h7aaaJ797HIPCEbW)
