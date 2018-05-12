@@ -1,3 +1,4 @@
+# CLASE01
 <br>
 
 Abrir la terminal con <strong>CTRL+ALT+T</strong>
@@ -24,6 +25,8 @@ vim launch.json
 
 ## BABEL
 
+página oficial de [babel](https://babeljs.io)
+
 ```sh
 # crear archivo package.json
 npm init -y
@@ -46,8 +49,12 @@ npx babel ./clase01/babel/main.js
 ```
 
 ## TYPESCRIPT
+página oficial de [typescript](https://www.typescriptlang.org)
 
 ``` sh
+# instalar typescript
+npm install typescript --save-dev
+
 # inicializar un proyecto typescript
 tsc --init
 
@@ -62,6 +69,7 @@ vim math2.ts
 ```
 
 ## ES6
+caracteristicas de [es6](http://es6-features.org)
 let , const , arrows funtions, template string ...
 ``` sh
 # instalar tslint globalmente
