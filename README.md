@@ -30,6 +30,29 @@ visita el github de la comunidad
 
 <br>
 
+## TERMINAL ó CMD
+
+abrir terminal <strong>CTRL+ALT+T</strong>
+
+```sh
+# clona el repositorio del curso NODEJS
+git clone http://github.com/alanwalter45/curso-nodejs
+```
+```sh
+# ubicate en el directorio que acabas de clonar
+cd ./curso-nodejs
+```
+```sh
+# abrir el directorio con visual studio code
+code .
+```
+```sh
+# ejecutar los ejemplos
+node ./example.js
+```
+
+si estas trabajando con visual studio code puedes lanzar el archivo "launch.json" ubicado en el directorio ".vscode" donde pulsando la tecla F5 ó  CTRL+SHIFT+D , podrás seleccionar que ejemplo deseas ejecutar en una lista de sugerencia.
+
 ## VISTA PREVIA
 
 <img src="./src/Screenshot.png" width="1319" height="741" >

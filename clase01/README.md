@@ -1,12 +1,74 @@
-# CURSO DE NODEJS
+<br>
 
-| CLASE 01 |
-|:--- |
-| `Introducción` |
-| `Herramientas de Desarrollo` |
-| `Mi Primera Aplicación` |
-| `Características` |
-| `ES6 / Babel / Typescript` |
+Abrir la terminal con <strong>CTRL+ALT+T</strong>
 
+```sh
+# ubicarse en el directorio del curso NODEJS
+cd ./curso-nodejs
+
+# crear el directorio de la clase01
+mkdir ./clase01
+
+#--------------------------------
+# instalar VIM
+apt-get update
+apt-get install vim
+
+#--------------------------------
+# crear directorio .vscode
+mkdir ./vscode
+
+# crear archivo launch.json
+vim launch.json
+```
+
+## BABEL
+
+```sh
+# crear archivo package.json
+npm init -y
+
+# instalar
+npm install --save-dev babel-cli babel-preset-env
+
+# instalando presets es2015
+npm install babel-preset-es2015
+
+# crear un archivo <striong>.babelrc</strong>
+make .babelrc
+
+# crear archivo usando VIM
+vim ./clase01/babel/main.js
+
+# compilar el archivo main.js con babel
+npx babel ./clase01/babel/main.js
+
+```
+
+## TYPESCRIPT
+
+``` sh
+# inicializar un proyecto typescript
+tsc --init
+
+# abrir el código en visual studio code
+code .
+
+# visualizar el contenido del archivo tsconfig.json
+cat ./tsconfig.json
+
+# crear el archivo math2.ts usando VIM
+vim math2.ts
+```
+
+## ES6
+let , const , arrows funtions, template string ...
+``` sh
+# instalar tslint globalmente
+npm install tslint -g
+
+# instalar eslint globalmente
+npm install eslint -g
+```
 
 [descargar diapositiva](https://drive.google.com/open?id=1Z9ogVm5Qew_xoPi2h7aaaJ797HIPCEbW)
