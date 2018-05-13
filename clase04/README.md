@@ -1,14 +1,13 @@
 # CLASE04
 <br>
-
 Abrir la terminal con <strong>CTRL+ALT+T</strong>
 
 ```sh
 # ubicarse en el directorio del curso NODEJS
-cd ./curso-nodejs
+$ cd ./curso-nodejs
 
 # crear el directorio de la clase04
-mkdir ./clase04
+$ mkdir ./clase04
 ```
 
 ## RXJS
@@ -20,10 +19,10 @@ página oficial de [express](http://expressjs.com)
 
 ```sh
 # establecer directorio como un modulo
-npm init -y
+$ npm init -y
 
 # instalar express en nuestro proyecto como dependencia
-npm i -S express
+$ npm i -S express
 ```
 
 ## WEBPACK
@@ -31,13 +30,13 @@ página oficial de [webpack](https://webpack.js.org/)
 
 ```sh
 # establecer directorio como un modulo
-npm init -y
+$ npm init -y
 
 # instalar webpack
-npm install webpack webpack-cli --save-dev
+$ npm install webpack webpack-cli --save-dev
 
 # crear archivo webpack.config.js
-touch webpack.config.js
+$ touch webpack.config.js
 ```
 ```js
 //crear script en el archivo package.json llamado "build" que ejecute webpack
