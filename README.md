@@ -1,5 +1,4 @@
--- redireccionado a 
-repostorio actualizado [javacript sucre](http://www.github.com/javascript-sucre/curso-nodejs)
+-- redireccionando al repostorio actualizado de [javacript sucre - curso-nodejs](http://www.github.com/javascript-sucre/curso-nodejs)
 
 # CURSO DE NODEJS
 
