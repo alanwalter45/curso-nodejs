@@ -1,4 +1,5 @@
-<img src="./src/1200px-Node.js_logo.svg.png" width="130" height="64">
+-- redireccionado a 
+repostorio actualizado [javacript sucre](http://www.github.com/javascript-sucre/curso-nodejs)
 
 # CURSO DE NODEJS
 
